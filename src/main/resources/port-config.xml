@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<port>
+    <berthCount>5</berthCount>
+    <warehouseCapacity>200</warehouseCapacity>
+    <initialContainers>100</initialContainers>
+    <mooringTimeMillis>200</mooringTimeMillis>
+    <containerHandlingTimeMillis>25</containerHandlingTimeMillis>
+</port>

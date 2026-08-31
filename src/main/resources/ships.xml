@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ships>
+    <ship id="1" capacity="20" containersOnBoard="18" operation="UNLOAD_AND_LOAD" containersToUnload="18" containersToLoad="20"/>
+    <ship id="2" capacity="15" containersOnBoard="0" operation="LOAD" containersToUnload="0" containersToLoad="15"/>
+    <ship id="3" capacity="25" containersOnBoard="25" operation="UNLOAD" containersToUnload="25" containersToLoad="0"/>
+    <ship id="4" capacity="18" containersOnBoard="10" operation="UNLOAD_AND_LOAD" containersToUnload="10" containersToLoad="18"/>
+    <ship id="5" capacity="12" containersOnBoard="12" operation="UNLOAD" containersToUnload="12" containersToLoad="0"/>
+    <ship id="6" capacity="30" containersOnBoard="0" operation="LOAD" containersToUnload="0" containersToLoad="30"/>
+    <ship id="7" capacity="22" containersOnBoard="14" operation="UNLOAD_AND_LOAD" containersToUnload="14" containersToLoad="22"/>
+    <ship id="8" capacity="16" containersOnBoard="16" operation="UNLOAD" containersToUnload="16" containersToLoad="0"/>
+    <ship id="9" capacity="20" containersOnBoard="5" operation="LOAD" containersToUnload="0" containersToLoad="15"/>
+    <ship id="10" capacity="28" containersOnBoard="20" operation="UNLOAD_AND_LOAD" containersToUnload="20" containersToLoad="28"/>
+    <ship id="11" capacity="14" containersOnBoard="14" operation="UNLOAD" containersToUnload="14" containersToLoad="0"/>
+    <ship id="12" capacity="24" containersOnBoard="0" operation="LOAD" containersToUnload="0" containersToLoad="24"/>
+    <ship id="13" capacity="19" containersOnBoard="9" operation="UNLOAD_AND_LOAD" containersToUnload="9" containersToLoad="19"/>
+    <ship id="14" capacity="17" containersOnBoard="17" operation="UNLOAD" containersToUnload="17" containersToLoad="0"/>
+    <ship id="15" capacity="21" containersOnBoard="6" operation="LOAD" containersToUnload="0" containersToLoad="15"/>
+    <ship id="16" capacity="26" containersOnBoard="26" operation="UNLOAD" containersToUnload="26" containersToLoad="0"/>
+    <ship id="17" capacity="13" containersOnBoard="7" operation="UNLOAD_AND_LOAD" containersToUnload="7" containersToLoad="13"/>
+    <ship id="18" capacity="23" containersOnBoard="0" operation="LOAD" containersToUnload="0" containersToLoad="23"/>
+    <ship id="19" capacity="15" containersOnBoard="15" operation="UNLOAD" containersToUnload="15" containersToLoad="0"/>
+    <ship id="20" capacity="27" containersOnBoard="12" operation="UNLOAD_AND_LOAD" containersToUnload="12" containersToLoad="27"/>
+    <ship id="21" capacity="11" containersOnBoard="11" operation="UNLOAD" containersToUnload="11" containersToLoad="0"/>
+    <ship id="22" capacity="29" containersOnBoard="0" operation="LOAD" containersToUnload="0" containersToLoad="29"/>
+    <ship id="23" capacity="18" containersOnBoard="18" operation="UNLOAD" containersToUnload="18" containersToLoad="0"/>
+    <ship id="24" capacity="20" containersOnBoard="10" operation="UNLOAD_AND_LOAD" containersToUnload="10" containersToLoad="20"/>
+</ships>
